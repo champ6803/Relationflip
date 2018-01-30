@@ -1,0 +1,17 @@
+.hb-day.hb-day-name{
+	color: #062ae2;
+}
+
+.hb-day.hb-day-active{
+	color: #fff;
+	background-color: #062ae2;
+}
+
+.hb-day.hb-day-active:hover{
+	background-color: #2c50ff;
+}
+
+.hb-day.hb-day-selected, .hb-day.hb-day-selected:hover{
+	background-color: #5377ff;
+}
+.hb-loading:before{ content: url("../images/iconLoadingDarkBlue.gif"); }
